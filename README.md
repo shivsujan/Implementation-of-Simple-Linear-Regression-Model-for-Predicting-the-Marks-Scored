@@ -72,6 +72,10 @@ print("RMSE= ",rmse)
 
 ![307237070-7c8d0f44-399a-4a52-9109-be17c60e642f](https://github.com/user-attachments/assets/16b87f3e-43cb-41da-b42d-6baf6ad64fa1)
 
+![307237103-29810b1e-0781-4338-a6ba-b7b8e2d30316](https://github.com/user-attachments/assets/5210ac75-2294-4c1a-8300-d60c5fc15495)
+
+![307237152-7509ecba-284d-4c04-86a7-2932b5e439af](https://github.com/user-attachments/assets/88718607-0fb4-4670-9d78-1853a963eced)
+
 ![307237178-6e3d9021-fbe2-421f-a1bc-2902ccd99ff5](https://github.com/user-attachments/assets/0acd20fa-03b0-4cbf-8269-e8e35a798ea1)
 
 ![307237218-6574b4f6-3e55-4ff6-9e1e-35b78c86ec66](https://github.com/user-attachments/assets/7f43b928-8a38-4f79-9425-1a22fc530353)
